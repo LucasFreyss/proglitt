@@ -6,8 +6,8 @@ output:
   pdf_document:
     number_sections: yes
   html_document: default
-geometry: margin=1.5in, top=0.5in, bottom=0.5in
 subtitle: A RStudio Demonstration and Statistical Analysis Draft
+geometry: margin=1.5in, top=0.5in, bottom=0.5in
 ---
 
 ```{r setup, include=FALSE}
